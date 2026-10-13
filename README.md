@@ -2,7 +2,7 @@
 
 **Instrumentation engineering | Institut Teknologi Sepuluh Nopember**
 
-Aspiring Embedded Systems & Robotics Engineer passionate about bridging software with hardware. Currently active in autonomous vessel development and power management design.
+Have interest in automation and Renewable energy
 
 ### 🛠️ Tech Stack & Tools
 
