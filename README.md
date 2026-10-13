@@ -1,9 +1,3 @@
-# ✨ Hi, I'm Muhammad Rojabi Dewano
-
-**Instrumentation engineering | Institut Teknologi Sepuluh Nopember**
-
-Have interest in automation and Renewable energy
-
 ### 🛠️ Tech Stack & Tools
 
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
